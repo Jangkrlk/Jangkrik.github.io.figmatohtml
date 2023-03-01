@@ -114,7 +114,6 @@ body {
 .product-img {
   position: absolute;
   height: 444px;
-  width: 224px;
   left: 737px;
   right: 479px;
   top: 1157px;
@@ -150,10 +149,13 @@ body {
   flex: 1;
 } */
 
+/* problem */
 .checkout-img {
-  z-index: 999;
-  height: 915px;
-  margin: auto;
+  position: absolute;
+  height: 444px;
+  left: 221px;
+  right: 995px;
+  top: 1157px;
 }
 
 .home-img {
@@ -169,7 +171,7 @@ body {
   z-index: 3;
   width: 100%;
   /* width: ; */
-  height: 25%;
+  height: 35%;
   left: 20px;
   /* margin: auto; */
   background: white;
